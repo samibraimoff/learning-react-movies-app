@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learning-react-movies-app/static/css/main.617d1db2.css",
+    "main.js": "/learning-react-movies-app/static/js/main.08aaf332.js",
+    "index.html": "/learning-react-movies-app/index.html",
+    "main.617d1db2.css.map": "/learning-react-movies-app/static/css/main.617d1db2.css.map",
+    "main.08aaf332.js.map": "/learning-react-movies-app/static/js/main.08aaf332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617d1db2.css",
+    "static/js/main.08aaf332.js"
+  ]
+}
